@@ -14,5 +14,3 @@ The year can be changed in GDP_map_py in line 16
 ```python
 if pop_dict['Year'] == 2016:
 ```
-
-country_codes.py is bad designed, because of I dont't know how to search in 2 dictionaries at the same time. Contact me if u know how to make it better ;)
